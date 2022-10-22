@@ -6,7 +6,7 @@ This is an ongoing project to develop an operating systems library. I am current
 
 ### Disk Scheduler:
 Disk scheduling algorithms used for I/O scheduling are implemented including:
-- First Come First Server (FCFS)
+- First Come First Serve (FCFS)
 - Shortest Seek Time First (SSTF)
 - SCAN
 - Circular SCAN (C-SCAN)
