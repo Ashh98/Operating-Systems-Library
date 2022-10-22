@@ -1,6 +1,6 @@
 # Operating Systems Library
 
-This is an ongoing project to develop an operating systems library. I am currently in the stage of coding the most famous OS algorithms.
+This is an ongoing project to develop an operating systems library. I am currently at the stage of coding the most famous OS algorithms.
 
 ## Currently Added OS Algorithms
 
